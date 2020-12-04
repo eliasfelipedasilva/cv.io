@@ -42,6 +42,7 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de Software.
     		* Apoio no treinamento de operação de sistemas contábeis.
 		* Fechamento de Caixas.
 		* Emissão de relatórios de ganhos mensais do escritório.
+		
 #### Habilidades: 
 - Desenvolvimento WEB.
 - Desenvolvimento e integração Restful Apis.
