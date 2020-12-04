@@ -62,7 +62,7 @@ Nodejs, React e Laravel
 **Spring Boot Expert: JPA, RESTFul API, Security, JWT e Mais** (12,5h) - Udemy
 Certificado: https://www.udemy.com/certificate/UC-148e4d7d-47f0-4291-ac1e-3578d2692907
 
-**PHP Completo: Curso do Desenvolvedor Web 2020 e Projetos ** (73,5h) - Udemy
+**PHP Completo: Curso do Desenvolvedor Web 2020 e Projetos** (12,5h) - Udemy
 Certificado: https://www.udemy.com/certificate/UC-b3d33cd5-8a78-42cc-9956-3e174c235246 
 
 **Introdução a Ciência da Computação com Python** (41h) - USP plataforma Coursera   
