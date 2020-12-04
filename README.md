@@ -2,7 +2,7 @@
 #### Contato
 Solteiro, 21 anos   
 E-mail: eliasfelipedasilva1999@gmail.com
-Celular: (43) 9 9867-2206
+Celular: (43) 9-9867-2206
 
 #### Resumo:
 Desenvolvedor de software com experiência em tecnologias JavaScript, sólidos conhecimentos em Nodejs,SAP Cloud Platform, PHP e PostgreSQL.
