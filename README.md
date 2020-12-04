@@ -20,19 +20,19 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de Software.
 	- **Disponível em:** https://github.com/eliasfelipedasilva/sysrec
 
 #### Experiência :
-- Estágio em desenvolvimento SCP (11 meses)  - L4E - Lab for Extensions | Parcialmente Remoto
+- ** Estágio em desenvolvimento SCP (11 meses)  - L4E - Lab for Extensions | Parcialmente Remoto
 	* **Período:** Atual emprego.
 	* **Atividades:** Plataforma SAP CLOUD PLATFORM, bancos de dados PGSQL, Nodejs, SapUi5, Fiori, SAP Intelligent Robotic Process Automation. SAP Cloud Platform
 	Integration
 	
-- **Agente De Saúde (1 ano e 9meses)  - Prefeitura Municipal de Andirá (SUS)
+- ** gente De Saúde (1 ano e 9meses)  - Prefeitura Municipal de Andirá (SUS)
 	* **Período:** Abril/2018 até Dezembro/2019.
 	* **Atividades:** 
 		* Vistoria de residências, depósitos, terrenos baldios e estabelecimentos comerciais para buscar focos endêmicos.
 		* Orientações quanto à prevenção e tratamento de doenças infecciosas.
 		* Recenseamento de animais.
 
-- **Office Boy (11 meses) - Escritório de Contabilidade Pantaleão . 
+- ** Office Boy (11 meses) - Escritório de Contabilidade Pantaleão . 
 	* **Período:** Maio/2017 Até Abril/2018. 
 	* **Atividades:** 
 		* Manutenção de Computadores.
