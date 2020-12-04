@@ -20,23 +20,23 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de Software.
 	- **Disponível em:** https://github.com/eliasfelipedasilva/sysrec
 
 #### Experiência :
-- ** Estágio em desenvolvimento SCP (11 meses)  - L4E - Lab for Extensions | Parcialmente Remoto
+- **Estágio em desenvolvimento SCP (11 meses)  - L4E - Lab for Extensions | Parcialmente Remoto
 	* **Período:** Atual emprego.
 	* **Atividades:** Plataforma SAP CLOUD PLATFORM, bancos de dados PGSQL, Nodejs, SapUi5, Fiori, SAP Intelligent Robotic Process Automation. SAP Cloud Platform
 	Integration
 	
-- ** gente De Saúde (1 ano e 9meses)  - Prefeitura Municipal de Andirá (SUS)
+- **Agente De Saúde (1 ano e 9meses)  - Prefeitura Municipal de Andirá (SUS)
 	* **Período:** Abril/2018 até Dezembro/2019.
 	* **Atividades:** 
 		* Vistoria de residências, depósitos, terrenos baldios e estabelecimentos comerciais para buscar focos endêmicos.
 		* Orientações quanto à prevenção e tratamento de doenças infecciosas.
 		* Recenseamento de animais.
 
-- ** Office Boy (11 meses) - Escritório de Contabilidade Pantaleão . 
+- **Office Boy (11 meses) - Escritório de Contabilidade Pantaleão . 
 	* **Período:** Maio/2017 Até Abril/2018. 
 	* **Atividades:** 
 		* Manutenção de Computadores.
-    * Apoio no treinamento de operação de sistemas contábeis.
+    		* Apoio no treinamento de operação de sistemas contábeis.
 		* Fechamento de Caixas.
 		* Emissão de relatórios de ganhos mensais do escritório.
 #### Habilidades: 
@@ -62,7 +62,7 @@ Nodejs, React e Laravel
 **Spring Boot Expert: JPA, RESTFul API, Security, JWT e Mais** (12,5h) - Udemy
 Certificado: https://www.udemy.com/certificate/UC-148e4d7d-47f0-4291-ac1e-3578d2692907/  
 
-**PHP Completo - Curso do Desenvolvedor Web 2020 + Projetos ** (73,5h) - Udemy
+**PHP Completo - Curso do Desenvolvedor Web 2020 e Projetos ** (73,5h) - Udemy
 Certificado: https://www.udemy.com/certificate/UC-b3d33cd5-8a78-42cc-9956-3e174c235246/ 
 
 **Introdução a Ciência da Computação com Python** (41h) - USP plataforma Coursera   
