@@ -20,7 +20,7 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de Software.
 	- **Disponível em:** https://github.com/eliasfelipedasilva/sysrec
 
 #### Experiência :
-- **Estágio em desenvolvimento SCP (11 meses)  - L4E - Lab for Extensions | Parcialmente Remoto
+- Estágio em desenvolvimento SCP (11 meses)  - L4E - Lab for Extensions | Parcialmente Remoto
 	* **Período:** Atual emprego.
 	* **Atividades:** Plataforma SAP CLOUD PLATFORM, bancos de dados PGSQL, Nodejs, SapUi5, Fiori, SAP Intelligent Robotic Process Automation. SAP Cloud Platform
 	Integration
