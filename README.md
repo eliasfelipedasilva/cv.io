@@ -39,6 +39,7 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de Software.
 	* **Período:** Maio/2017 Até Abril/2018. 
 	* **Atividades:** 
 		* Manutenção de Computadores.
+		
     		* Apoio no treinamento de operação de sistemas contábeis.
 		* Fechamento de Caixas.
 		* Emissão de relatórios de ganhos mensais do escritório.
