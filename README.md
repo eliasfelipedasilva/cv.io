@@ -1,6 +1,7 @@
 ## Elias Felipe Da Silva
+Solteiro, 21 anos  
 #### Contato:
-Solteiro, 21 anos   
+ 
 
 E-mail: eliasfelipedasilva1999@gmail.com 
 
