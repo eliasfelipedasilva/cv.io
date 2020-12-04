@@ -16,7 +16,7 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de Software.
 
 #### Formação Acadêmica:
 - **Técnico em Eletrônica (2 Anos)** – Etec “Jacinto Ferreira de Sá” – Ourinhos. 2016.
-	- **Artigo:** Seladora .
+	- **Artigo:** DESENVOLVIMENTO DE UMA SELADORA DE BAIXO CUSTO.
 	- **Disponível em:** https://drive.google.com/file/d/0B6jPyijdQl2HMVpJdFMwc2E0YXM/view?usp=sharing
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas (3 Anos Seg-Sáb)** – Fatec Ourinhos. 2020.
 	- **TCC:** Implementação de Sistema de Recomendação com NOSQL (Neo4J) 
