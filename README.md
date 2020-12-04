@@ -62,6 +62,12 @@ Nodejs, React e Laravel
 **Spring Boot Expert: JPA, RESTFul API, Security, JWT e Mais** (12,5h) - Udemy
 Certificado: https://www.udemy.com/certificate/UC-148e4d7d-47f0-4291-ac1e-3578d2692907
 
+**Microsoft SQL Server Integration Services (SSIS) Training** (10h) - Plataforma Udemy   
+Certificado: https://udemy-certificate.s3.amazonaws.com/pdf/UC-3ad9ddca-a7e9-408d-8bec-faa713010a9c.pdf
+
+**Python para Data Science: Funções, Pacotes e Pandas básico** (10h) - Plataforma Alura   
+Certificado: https://cursos.alura.com.br/user/luis-venezian/course/python-funcoes-pacotes-pandas/formalCertificate
+
 **PHP Completo: Curso do Desenvolvedor Web 2020 e Projetos** (12,5h) - Udemy
 Certificado: https://www.udemy.com/certificate/UC-b3d33cd5-8a78-42cc-9956-3e174c235246 
 
