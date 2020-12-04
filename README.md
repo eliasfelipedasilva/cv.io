@@ -60,10 +60,10 @@ Nodejs, React e Laravel
 		
 #### Cursos e Certificações:
 **Spring Boot Expert: JPA, RESTFul API, Security, JWT e Mais** (12,5h) - Udemy
-Certificado: https://www.udemy.com/certificate/UC-148e4d7d-47f0-4291-ac1e-3578d2692907/  
+Certificado: https://www.udemy.com/certificate/UC-148e4d7d-47f0-4291-ac1e-3578d2692907
 
 **PHP Completo - Curso do Desenvolvedor Web 2020 e Projetos ** (73,5h) - Udemy
-Certificado: https://www.udemy.com/certificate/UC-b3d33cd5-8a78-42cc-9956-3e174c235246/ 
+Certificado: https://www.udemy.com/certificate/UC-b3d33cd5-8a78-42cc-9956-3e174c235246 
 
 **Introdução a Ciência da Computação com Python** (41h) - USP plataforma Coursera   
 Certificado: https://www.coursera.org/account/accomplishments/certificate/4W5VVV27VEAR
@@ -75,6 +75,6 @@ Certificado: https://www.fatecourinhos.edu.br/declaracoes/inscricao/1006195
 Credencial: D4F7A43CED   
 
 ## Perfis 
-**LinkedIn**: https://www.linkedin.com/in/elias-felipe-da-silva-b58a8213b/  
+**LinkedIn**: https://www.linkedin.com/in/elias-felipe-da-silva-b58a8213b  
 **Github**: https://github.com/eliasfelipedasilva 
 **Uri Judge**: https://www.urionlinejudge.com.br/judge/pt/profile/192767
