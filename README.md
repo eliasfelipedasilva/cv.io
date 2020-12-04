@@ -38,9 +38,7 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de Software.
 - **Office Boy (11 meses) - Escritório de Contabilidade Pantaleão**. 
 	* **Período:** Maio/2017 Até Abril/2018. 
 	* **Atividades:** 
-		* Manutenção de Computadores.
-		
-    		* Apoio no treinamento de operação de sistemas contábeis.
+		* Manutenção de Computadores e apoio nos treinamentos de operação de sistemas contábeis.
 		* Fechamento de Caixas.
 		* Emissão de relatórios de ganhos mensais do escritório.
 		
