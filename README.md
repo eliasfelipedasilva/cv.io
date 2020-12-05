@@ -46,7 +46,8 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de Software.
 #### Habilidades: 
 - Desenvolvimento WEB.
 - Desenvolvimento e integração Restful Apis.
-- SAP Cloud Platform
+- POO (Programação Orienada a Objetos).
+- SAP Cloud Platform.
 - Banco de dados.
 - Arquitetura de projetos MVC.
 - Gerenciador de Código Fonte GIT.
