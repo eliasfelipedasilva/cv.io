@@ -24,10 +24,13 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de Software.
 	- **Disponível em:** https://github.com/eliasfelipedasilva/sysrec
 
 #### Experiência:
+- **Consultor SAP BTP Junior (5 meses)  - L4E Lab for Extensions** |  Remoto.
+	* **Período:** Atual emprego.
+	* **Atividades:** Plataforma SAP BUSINESS TECHNOLOGY PLATFORM, HANA CLOUD, Nodejs,SAP Cloud Application Programming Model, SapUi5, Fiori, SAP Intelligent Robotic Process Automation, SAP Document Information Extraction, SAP Integration Suite, Análise de Requisitos e Desenvolvimento de Soluções.
+
 - **Estágio em desenvolvimento SCP (11 meses)  - L4E Lab for Extensions** | Parcialmente Remoto.
 	* **Período:** Atual emprego.
-	* **Atividades:** Plataforma SAP CLOUD PLATFORM, bancos de dados PGSQL, Nodejs, SapUi5, Fiori, SAP Intelligent Robotic Process Automation. SAP Cloud Platform
-	Integration
+	* **Atividades:** Plataforma SAP CLOUD PLATFORM, bancos de dados PGSQL, Nodejs, SapUi5, Fiori, SAP Intelligent Robotic Process Automation.SAP Integration Suite.
 	
 - **Agente De Saúde (1 ano e 9meses)  - Prefeitura Municipal de Andirá (SUS)**.
 	* **Período:** Abril/2018 até Dezembro/2019.
@@ -44,26 +47,28 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de Software.
 		* Emissão de relatórios de ganhos mensais do escritório.
 		
 #### Habilidades: 
-- Desenvolvimento WEB.
+- SAP BUSINESS TECHNOLOGY PLATFORM.
 - Desenvolvimento e integração Restful Apis.
 - POO (Programação Orienada a Objetos).
-- SAP Cloud Platform.
 - Banco de dados.
 - Arquitetura de projetos MVC.
 - Gerenciador de Código Fonte GIT.
-- Estudando TDD (Test-driven development).
+- TDD (Test-driven development).
 
 #### Linguagens: 
-Linguagens as quais possuo mais facilidade são JavaScript, Python e PHP.   
-Também conheço: Java, C, HTML, CSS e MD.
+Linguagens as quais possuo mais facilidade são JavaScript, Python, SQL e PHP.   
+Também conheço: Java, C,XML, HTML, CSS e MD.
 
 #### Frameworks: 
-Nodejs, React e Laravel
+Nodejs, SAP Cloud Application Programming Model, React e Laravel
 
 #### Idioma:
-- Inglês: Boa leitura, boa compreensão, escrita razoavel e conversação básica.
+- Inglês: Boa leitura, boa compreensão, escrita razoável e conversação básica.
 		
 #### Cursos e Certificações:
+**Enter Next-Level Bot Building with SAP Intelligent RPA 2.0 (2021 Edition)** - OpenSap
+Certificado: https://open.sap.com/verify/xetav-sykul-rycic-fezyk-zavoc
+
 **Spring Boot Expert: JPA, RESTFul API, Security, JWT e Mais** (12,5h) - Udemy
 Certificado: https://www.udemy.com/certificate/UC-148e4d7d-47f0-4291-ac1e-3578d2692907
 
