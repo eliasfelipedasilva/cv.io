@@ -9,7 +9,7 @@ Celular: (43) 9-9867-2206
 
 
 #### Resumo:
-Desenvolvedor de software com experiência em tecnologias JavaScript, sólidos conhecimentos em Nodejs, SAP Cloud Platform, PHP e PostgreSQL.
+Desenvolvedor de software com experiência em tecnologias JavaScript, sólidos conhecimentos em Nodejs, SAP BUSINESS TECHNOLOGY PLATFORM, PHP, PostgreSQL e Hana Cloud.
 
 #### Objetivo:
 Fortalecer-me Desenvolvedor Full Stack, atuar com linguagens de desenvolvimento JavaScript, PHP e ambientes virtuais cloud computing.
