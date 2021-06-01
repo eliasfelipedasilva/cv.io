@@ -27,7 +27,9 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de Software.
 - **Consultor SAP BTP Junior (6 meses)  - L4E Lab for Extensions** |  Remoto.
 	* **Período:** Atual emprego.
 	* **Atividades:** Plataforma SAP BUSINESS TECHNOLOGY PLATFORM, HANA CLOUD, Nodejs,SAP Cloud Application Programming Model, Sequelize, SapUi5, Fiori, SAP Intelligent Robotic Process Automation, SAP Document Information Extraction, SAP Integration Suite, Análise de Requisitos e Desenvolvimento de Soluções.
-	* **Pojetos:** **Admissão Digital - onBoarding - Cliente: BRF S.A**
+	* **Pojetos:**
+		* **Admissão Digital - onBoarding - Cliente: BRF S.A**.
+		* Pagamento de Tributos - Tax Payment - Cliente: Cienci
 
 - **Estágio em desenvolvimento SCP (11 meses)  - L4E Lab for Extensions** | Parcialmente Remoto.
 	* **Período:** Atual emprego.
