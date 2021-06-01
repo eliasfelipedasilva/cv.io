@@ -31,8 +31,8 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de Software.
 		* **Admissão Digital - onBoarding - Cliente: BRF S.A**.
 		* Pagamento de Tributos - Tax Payment - Cliente: Cienci
 
-- **Estágio em desenvolvimento SCP (11 meses)  - L4E Lab for Extensions** | Parcialmente Remoto.
-	* **Período:** Atual emprego.
+- **Estágio em desenvolvimento SCP (1 ano)  - L4E Lab for Extensions** | Parcialmente Remoto.
+	* **Período:** Dezembro 2019 até Dezembro 2020 .
 	* **Atividades:** Plataforma SAP CLOUD PLATFORM, bancos de dados PGSQL, Nodejs, SapUi5, Fiori, SAP Intelligent Robotic Process Automation.SAP Integration Suite.
 	
 - **Agente De Saúde (1 ano e 9meses)  - Prefeitura Municipal de Andirá (SUS)**.
