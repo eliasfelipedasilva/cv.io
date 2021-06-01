@@ -12,7 +12,7 @@ Celular: (43) 9-9867-2206
 Desenvolvedor de software com experiência em tecnologias JavaScript, sólidos conhecimentos em Nodejs, SAP BUSINESS TECHNOLOGY PLATFORM, PHP, PostgreSQL e Hana Cloud.
 
 #### Objetivo:
-Fortalecer-me Desenvolvedor Full Stack, atuar com linguagens de desenvolvimento de sistemas e ambientes virtuais cloud computing.
+Fortalecer-me Desenvolvedor Full Stack com ênfase no Backend, atuar com linguagens de desenvolvimento de sistemas e ambientes virtuais cloud computing.
 Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de Software.
 
 #### Formação Acadêmica:
@@ -24,9 +24,10 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de Software.
 	- **Disponível em:** https://github.com/eliasfelipedasilva/sysrec
 
 #### Experiência:
-- **Consultor SAP BTP Junior (5 meses)  - L4E Lab for Extensions** |  Remoto.
+- **Consultor SAP BTP Junior (6 meses)  - L4E Lab for Extensions** |  Remoto.
 	* **Período:** Atual emprego.
-	* **Atividades:** Plataforma SAP BUSINESS TECHNOLOGY PLATFORM, HANA CLOUD, Nodejs,SAP Cloud Application Programming Model, SapUi5, Fiori, SAP Intelligent Robotic Process Automation, SAP Document Information Extraction, SAP Integration Suite, Análise de Requisitos e Desenvolvimento de Soluções.
+	* **Atividades:** Plataforma SAP BUSINESS TECHNOLOGY PLATFORM, HANA CLOUD, Nodejs,SAP Cloud Application Programming Model, Sequelize, SapUi5, Fiori, SAP Intelligent Robotic Process Automation, SAP Document Information Extraction, SAP Integration Suite, Análise de Requisitos e Desenvolvimento de Soluções.
+	* **Pojetos:** **Admissão Digital - onBoarding - Cliente: BRF S.A**
 
 - **Estágio em desenvolvimento SCP (11 meses)  - L4E Lab for Extensions** | Parcialmente Remoto.
 	* **Período:** Atual emprego.
