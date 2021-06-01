@@ -50,7 +50,6 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de Software.
 #### Habilidades: 
 - SAP BUSINESS TECHNOLOGY PLATFORM.
 - Desenvolvimento e integração Restful Apis.
-- POO (Programação Orienada a Objetos).
 - Banco de dados.
 - Arquitetura de projetos MVC.
 - Gerenciador de Código Fonte GIT.
@@ -61,7 +60,7 @@ Linguagens as quais possuo mais facilidade são JavaScript, Python, SQL e PHP.
 Também conheço: Java, C,XML, HTML, CSS e MD.
 
 #### Frameworks: 
-Nodejs, SAP Cloud Application Programming Model, React e Laravel
+Nodejs, SAP Cloud Application Programming Model, SapUi5, React e Laravel
 
 #### Idioma:
 - Inglês: Boa leitura, boa compreensão, escrita razoável e conversação básica.
