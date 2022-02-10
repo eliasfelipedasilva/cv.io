@@ -9,11 +9,11 @@ Celular: (43) 9-9867-2206
 
 
 #### Resumo:
-Desenvolvedor de software com experiência em tecnologias JavaScript, sólidos conhecimentos em Nodejs, SAP BUSINESS TECHNOLOGY PLATFORM, PHP, PostgreSQL e Hana Cloud.
+Analista de Sistemas com experiência em tecnologias SAP, sólidos conhecimentos em SAP BUSINESS TECHNOLOGY PLATFORM, Nodejs, Integration Suite, Hana Cloud e SAPui5.
 
 #### Objetivo:
-Fortalecer-me Desenvolvedor Full Stack com ênfase no Backend, atuar com linguagens de desenvolvimento de sistemas e ambientes virtuais cloud computing.
-Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de Software.
+Fortalecer-me Analista de Soluções SAP com ênfase no Backend, atuar com linguagens de desenvolvimento de sistemas e ambientes virtuais cloud computing.
+Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de soluções SAP.
 
 #### Formação Acadêmica:
 - **Técnico em Eletrônica (2 Anos)** – Etec “Jacinto Ferreira de Sá” – Ourinhos. 2016.
