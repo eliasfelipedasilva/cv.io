@@ -24,8 +24,12 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de Software.
 	- **Disponível em:** https://github.com/eliasfelipedasilva/sysrec
 
 #### Experiência:
-- **Consultor SAP BTP Junior (7 meses)  - L4E Lab for Extensions** |  Remoto.
-	* **Período:** Atual emprego.
+- **Analista De Soluções de Sistemas (SAP) II (7 meses)  - Dafiti Group** |  Remoto.
+	* **Período:** Atual posição
+	* **Atividades:** Plataforma SAP BUSINESS TECHNOLOGY PLATFORM, HANA CLOUD, Nodejs,SAP Cloud Application Programming Model,Integration Suite (CPI, API Management, Event Mesh etc) , SapUi5, Fiori, SAP S4/Hana e Desenvolvimento de Soluções.
+
+- **Consultor SAP BTP Junior (8 meses)  - L4E Lab for Extensions** |  Remoto.
+	* **Período:** Dezembro/2020 até Julho/2021
 	* **Atividades:** Plataforma SAP BUSINESS TECHNOLOGY PLATFORM, HANA CLOUD, Nodejs,SAP Cloud Application Programming Model, Sequelize, SapUi5, Fiori, SAP Intelligent Robotic Process Automation, SAP Document Information Extraction, SAP Integration Suite, Análise de Requisitos e Desenvolvimento de Soluções.
 	* **Pojetos:**
 		* **Admissão Digital - onBoarding - Cliente: BRF S.A**.
@@ -52,14 +56,14 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de Software.
 #### Habilidades: 
 - SAP BUSINESS TECHNOLOGY PLATFORM.
 - Desenvolvimento e integração Restful Apis.
-- Banco de dados.
-- Arquitetura de projetos MVC.
+- Integration Suite (BTP).
+- Extension Suite (BTP).
 - Gerenciador de Código Fonte GIT.
 - TDD (Test-driven development).
 
 #### Linguagens: 
 Linguagens as quais possuo mais facilidade são JavaScript, Python, SQL e PHP.   
-Também conheço: Java, C,XML, HTML, CSS e MD.
+Também conheço: Groovy(cpi), Java, C,XML, HTML, CSS e MD.
 
 #### Frameworks: 
 Nodejs, SAP Cloud Application Programming Model, SapUi5, React e Laravel
@@ -68,6 +72,12 @@ Nodejs, SAP Cloud Application Programming Model, SapUi5, React e Laravel
 - Inglês: Boa leitura, boa compreensão, escrita razoável e conversação básica.
 		
 #### Cursos e Certificações:
+**Building Applications on SAP BTP with Microsoft Services** - OpenSap
+https://open.sap.com/verify/xumeg-cisud-nozim-zirom-lafur
+
+**Introduction to Abap in the Cloud** - OpenSap
+Certificado: https://open.sap.com/verify/xunel-rutak-nydac-zybym-dymyb
+
 **Enter Next-Level Bot Building with SAP Intelligent RPA 2.0 (2021 Edition)** - OpenSap
 Certificado: https://open.sap.com/verify/xetav-sykul-rycic-fezyk-zavoc
 
