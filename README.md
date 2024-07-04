@@ -67,17 +67,18 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de soluções SAP.
 - Integration Suite (BTP).
 - Extension Suite (BTP).
 - Gerenciador de Código Fonte GIT.
-- TDD (Test-driven development).
+- Desenvolvimento de APIS usando Nodejs e Python
+
 
 #### Linguagens: 
 Linguagens as quais possuo mais facilidade são JavaScript, Python, SQL e PHP.   
-Também conheço: Groovy(cpi), Java, C,XML, HTML, CSS e MD.
+Também conheço: Groovy(cpi), C.
 
 #### Frameworks: 
-Nodejs, SAP Cloud Application Programming Model, SapUi5, React e Laravel
+Nodejs, SAP Cloud Application Programming Model, SapUi5, React, Laravel, FastAPI, Nestjs, Express Nodejs.
 
 #### Idioma:
-- Inglês: Boa leitura, boa compreensão, escrita razoável e conversação básica.
+- Inglês: Boa leitura, boa compreensão, escrita razoável e conversação intermediária.
 		
 #### Cursos e Certificações:
 **Building Applications on SAP BTP with Microsoft Services** - OpenSap
