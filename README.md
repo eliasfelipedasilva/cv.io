@@ -1,5 +1,5 @@
 ## Elias Felipe Da Silva
-Solteiro, 22 anos  
+Solteiro, 25 anos  
 #### Contato:
  
 
@@ -9,7 +9,7 @@ Celular: (43) 9-9867-2206
 
 
 #### Resumo:
-Analista de Sistemas com experiência em tecnologias SAP, sólidos conhecimentos em SAP BUSINESS TECHNOLOGY PLATFORM, Nodejs, Integration Suite, Hana Cloud e SAPui5.
+Analista de Sistemas com experiência em tecnologias SAP, sólidos conhecimentos em SAP BUSINESS TECHNOLOGY PLATFORM, Nodejs, Integration Suite, Hana Cloud,SAPui5 e SAP CAP.
 
 #### Objetivo:
 Fortalecer-me Analista de Soluções SAP com ênfase no Backend, atuar com linguagens de desenvolvimento de sistemas e ambientes virtuais cloud computing.
@@ -24,8 +24,16 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de soluções SAP.
 	- **Disponível em:** https://github.com/eliasfelipedasilva/sysrec
 
 #### Experiência:
-- **Analista De Soluções de Sistemas (SAP) II (7 meses)  - Dafiti Group** |  Remoto.
+- **Consultor SAP SR (SAP) (7 meses)  - Stefanini** |  Remoto.
 	* **Período:** Atual posição
+	* **Atividades:** Desenvolvimento de extensões e integrações utilizando tecnologias SAP BTP (Integration Suite e Extension Suite). Dentre as tecnologias chaves incluem SAP CAP, SAP CPI, SAP Event Mesh e SAP HANA CLOUD. Tenho me envolvido com implantação de projeto, melhorias e suporte.
+
+- **Engenheiro de Software (SAP) (1 ano e 4 meses)  - Porto** |  Remoto.
+	* **Período:** Outubro/2024 a Janeiro/2024
+	* **Atividades:** Trablhei extensivamente com tecnologias SAP BTP e SuccessFactors (integração). Também atuei com as tecnologias SAP Event Mesh, SAP CAP, Cloud Foundry, CPI, Hana Cloud, and SAP Workflow Management. Minhas responsabilidades incluiram a governança do ambiente SAP BTP, atuando como ponte entre cliente e times de consultorias. Participei de levantamento de requisitos e implementações de melhorias em sistemas de RH da organização, focados em integrações e extensões de sistemas legados.
+
+- **Analista De Soluções de Sistemas (SAP) II (1 ano e 3 meses)  - Dafiti Group** |  Remoto.
+	* **Período:** Agosto/2021 até Outubro/2022
 	* **Atividades:** Plataforma SAP BUSINESS TECHNOLOGY PLATFORM, HANA CLOUD, Nodejs,SAP Cloud Application Programming Model,Integration Suite (CPI, API Management, Event Mesh etc) , SapUi5, Fiori, SAP S4/Hana e Desenvolvimento de Soluções.
 
 - **Consultor SAP BTP Junior (8 meses)  - L4E Lab for Extensions** |  Remoto.
