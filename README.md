@@ -30,7 +30,7 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de soluções SAP.
 
 - **Engenheiro de Software (SAP) (1 ano e 4 meses)  - Porto** |  Remoto.
 	* **Período:** Outubro/2024 a Janeiro/2024
-	* **Atividades:** Trablhei extensivamente com tecnologias SAP BTP e SuccessFactors (integração). Também atuei com as tecnologias SAP Event Mesh, SAP CAP, Cloud Foundry, CPI, Hana Cloud, and SAP Workflow Management. Minhas responsabilidades incluiram a governança do ambiente SAP BTP, atuando como ponte entre cliente e times de consultorias. Participei de levantamento de requisitos e implementações de melhorias em sistemas de RH da organização, focados em integrações e extensões de sistemas legados.
+	* **Atividades:** Trabalhei extensivamente com tecnologias SAP BTP e SuccessFactors (integração). Também atuei com as tecnologias SAP Event Mesh, SAP CAP, Cloud Foundry, CPI, Hana Cloud, and SAP Workflow Management. Minhas responsabilidades incluiram a governança do ambiente SAP BTP, atuando como ponte entre cliente e times de consultorias. Participei de levantamento de requisitos e implementações de melhorias em sistemas de RH da organização, focados em integrações e extensões de sistemas legados.
 
 - **Analista De Soluções de Sistemas (SAP) II (1 ano e 3 meses)  - Dafiti Group** |  Remoto.
 	* **Período:** Agosto/2021 até Outubro/2022
