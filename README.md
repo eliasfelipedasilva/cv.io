@@ -26,7 +26,7 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de soluções SAP.
 #### Experiência:
 - **Consultor SAP SR (SAP) (7 meses)  - Stefanini** |  Remoto.
 	* **Período:** Atual posição
-	* **Atividades:** Desenvolvimento de extensões e integrações utilizando tecnologias SAP BTP (Integration Suite e Extension Suite). Dentre as tecnologias chaves incluem SAP CAP, SAP CPI, SAP Event Mesh e SAP HANA CLOUD. Tenho me envolvido com implantação de projeto, melhorias e suporte.
+	* **Atividades:** Desenvolvimento de extensões e integrações de sistemas SAP (ECC e S4 Hana) e terceiros utilizando tecnologias SAP BTP (Integration Suite e Extension Suite). Dentre as tecnologias chaves incluem SAP CAP, SAP CPI, SAP Event Mesh e SAP HANA CLOUD. Tenho me envolvido com implantação de projeto, melhorias e suporte.
 
 - **Engenheiro de Software (SAP) (1 ano e 4 meses)  - Porto** |  Remoto.
 	* **Período:** Outubro/2024 a Janeiro/2024
@@ -34,11 +34,11 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de soluções SAP.
 
 - **Analista De Soluções de Sistemas (SAP) II (1 ano e 3 meses)  - Dafiti Group** |  Remoto.
 	* **Período:** Agosto/2021 até Outubro/2022
-	* **Atividades:** Plataforma SAP BUSINESS TECHNOLOGY PLATFORM, HANA CLOUD, Nodejs,SAP Cloud Application Programming Model,Integration Suite (CPI, API Management, Event Mesh etc) , SapUi5, Fiori, SAP S4/Hana e Desenvolvimento de Soluções.
+	* **Atividades:** Plataforma SAP BUSINESS TECHNOLOGY PLATFORM,SAP S4 Hana, HANA CLOUD, Nodejs,SAP Cloud Application Programming Model,Integration Suite (CPI, API Management, Event Mesh etc) , SapUi5, Fiori e Desenvolvimento de Soluções.
 
 - **Consultor SAP BTP Junior (8 meses)  - L4E Lab for Extensions** |  Remoto.
 	* **Período:** Dezembro/2020 até Julho/2021
-	* **Atividades:** Plataforma SAP BUSINESS TECHNOLOGY PLATFORM, HANA CLOUD, Nodejs,SAP Cloud Application Programming Model, Sequelize, SapUi5, Fiori, SAP Intelligent Robotic Process Automation, SAP Document Information Extraction, SAP Integration Suite, Análise de Requisitos e Desenvolvimento de Soluções.
+	* **Atividades:** Plataforma SAP BUSINESS TECHNOLOGY PLATFORM,SAP S4 Hana, HANA CLOUD, Nodejs,SAP Cloud Application Programming Model, Sequelize, SapUi5, Fiori, SAP Intelligent Robotic Process Automation, SAP Document Information Extraction, SAP Integration Suite, Análise de Requisitos e Desenvolvimento de Soluções.
 	* **Pojetos:**
 		* **Admissão Digital - onBoarding - Cliente: BRF S.A**.
 		* Pagamento de Tributos - Tax Payment - Cliente: Cienci
