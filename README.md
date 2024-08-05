@@ -24,7 +24,7 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de soluções SAP.
 	- **Disponível em:** https://github.com/eliasfelipedasilva/sysrec
 
 #### Experiência:
- **Consultor SAP BTP SR (SAP) (1 mês)  - WAFENIX** |  Remoto.
+ - **Consultor SAP BTP SR (SAP) (1 mês)  - WAFENIX** |  Remoto.
 	* **Período:** ATUAL/Por Projeto
 	* **Atividades:** Desenvolvimento de integrações de sistemas SAP (ECC e S4 Hana) e terceiros utilizando tecnologias SAP BTP (Integration Suite e Extension Suite). Dentre as tecnologias chaves incluem  SAP CPI, SAP Event Mesh e SAP HANA CLOUD. Tenho me envolvido com implantação integrações, melhorias e suporte.
  
