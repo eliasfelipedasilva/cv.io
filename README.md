@@ -24,12 +24,16 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de soluções SAP.
 	- **Disponível em:** https://github.com/eliasfelipedasilva/sysrec
 
 #### Experiência:
+ **Consultor SAP BTP SR (SAP) (1 mês)  - WAFENIX** |  Remoto.
+	* **Período:** ATUAL/Por Projeto
+	* **Atividades:** Desenvolvimento de integrações de sistemas SAP (ECC e S4 Hana) e terceiros utilizando tecnologias SAP BTP (Integration Suite e Extension Suite). Dentre as tecnologias chaves incluem  SAP CPI, SAP Event Mesh e SAP HANA CLOUD. Tenho me envolvido com implantação integrações, melhorias e suporte.
+ 
 - **Consultor SAP SR (SAP) (7 meses)  - Stefanini** |  Remoto.
-	* **Período:** Atual posição
+	* **Período:** Janeiro/2024 a Julho/2024
 	* **Atividades:** Desenvolvimento de extensões e integrações de sistemas SAP (ECC e S4 Hana) e terceiros utilizando tecnologias SAP BTP (Integration Suite e Extension Suite). Dentre as tecnologias chaves incluem SAP CAP, SAP CPI, SAP Event Mesh e SAP HANA CLOUD. Tenho me envolvido com implantação de projeto, melhorias e suporte.
 
 - **Engenheiro de Software (SAP) (1 ano e 4 meses)  - Porto** |  Remoto.
-	* **Período:** Outubro/2024 a Janeiro/2024
+	* **Período:** Outubro/2023 a Janeiro/2024
 	* **Atividades:** Trabalhei extensivamente com tecnologias SAP BTP e SuccessFactors (integração). Também atuei com as tecnologias SAP Event Mesh, SAP CAP, Cloud Foundry, CPI, Hana Cloud, and SAP Workflow Management. Minhas responsabilidades incluiram a governança do ambiente SAP BTP, atuando como ponte entre cliente e times de consultorias. Participei de levantamento de requisitos e implementações de melhorias em sistemas de RH da organização, focados em integrações e extensões de sistemas legados.
 
 - **Analista De Soluções de Sistemas (SAP) II (1 ano e 3 meses)  - Dafiti Group** |  Remoto.
@@ -108,5 +112,4 @@ Credencial: D4F7A43CED
 ## Perfis 
 **LinkedIn**: https://www.linkedin.com/in/elias-felipe-da-silva-b58a8213b  
 **Github**: https://github.com/eliasfelipedasilva 
-**Uri Judge**: https://www.urionlinejudge.com.br/judge/pt/profile/192767
 
