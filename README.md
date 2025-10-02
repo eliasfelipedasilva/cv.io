@@ -1,5 +1,6 @@
 ## Elias Felipe Da Silva
-Solteiro, 25 anos  
+26 anos
+Data de nascimento - 24-06-1999
 #### Contato:
  
 
