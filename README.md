@@ -24,8 +24,12 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de soluções SAP.
 	- **Disponível em:** https://github.com/eliasfelipedasilva/sysrec
 
 #### Experiência:
- - **Consultor SAP BTP SR (SAP) (1 mês)  - WAFENIX** |  Remoto.
-	* **Período:** ATUAL/Por Projeto
+ - **Consultor SAP  SR (SAP S/4 Hana e SAP BTP) (Atual)  - Capgemini** |  Remoto.
+	* **Período:** ATUAL
+	* **Atividades:** Atuando como Líder Técnico em implementações de soluções em nuvem SAP BTP, com foco no SAP Integration Suite e no SAP Extension Suite. Responsável por orientar a equipe na integração de sistemas e no desenvolvimento de extensões personalizadas utilizando tecnologias e melhores práticas recomendadas pela SAP, garantindo que as soluções atendam às necessidades do negócio e otimizem os processos.
+
+ - **Consultor SAP BTP SR (SAP) (3 meses)  - WAFENIX** |  Remoto.
+	* **Período:** Julho/2024 a Setembro/2024 por Projeto
 	* **Atividades:** Desenvolvimento de integrações de sistemas SAP (ECC e S4 Hana) e terceiros utilizando tecnologias SAP BTP (Integration Suite e Extension Suite). Dentre as tecnologias chaves incluem  SAP CPI, SAP Event Mesh e SAP HANA CLOUD. Tenho me envolvido com implantação integrações, melhorias e suporte.
  
 - **Consultor SAP SR (SAP) (7 meses)  - Stefanini** |  Remoto.
@@ -85,6 +89,15 @@ Nodejs, SAP Cloud Application Programming Model, SapUi5, React, Laravel, FastAPI
 - Inglês: Boa leitura, boa compreensão, escrita razoável e conversação intermediária.
 		
 #### Cursos e Certificações:
+** SAP Certified Professional - Solution Architect - SAP BTP** - SAP
+https://www.credly.com/badges/7ff6cd50-c49d-4714-b6f2-b4e797565b93/linked_in_profile
+
+** SAP Administrating SAP Business Technology Platform** - SAP
+https://www.credly.com/badges/005c797c-6e86-4d43-83d6-5c4fe59190f5/linked_in_profile
+
+** Managing Clean Core for SAP S/4HANA Cloud** - SAP
+https://www.credly.com/badges/2094a724-32c2-4d03-9d51-9e0ffe28677b/linked_in_profile
+
 **Building Applications on SAP BTP with Microsoft Services** - OpenSap
 https://open.sap.com/verify/xumeg-cisud-nozim-zirom-lafur
 
