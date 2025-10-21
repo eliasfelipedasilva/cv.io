@@ -48,7 +48,7 @@ Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de soluções SAP.
 - **Consultor SAP BTP Junior (8 meses)  - L4E Lab for Extensions** |  Remoto.
 	* **Período:** Dezembro/2020 até Julho/2021
 	* **Atividades:** Plataforma SAP BUSINESS TECHNOLOGY PLATFORM,SAP S4 Hana, HANA CLOUD, Nodejs,SAP Cloud Application Programming Model, Sequelize, SapUi5, Fiori, SAP Intelligent Robotic Process Automation, SAP Document Information Extraction, SAP Integration Suite, Análise de Requisitos e Desenvolvimento de Soluções.
-	* **Pojetos:**
+	* **Projetos:**
 		* **Admissão Digital - onBoarding - Cliente: BRF S.A**.
 		* Pagamento de Tributos - Tax Payment - Cliente: Cienci
 
