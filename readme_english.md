@@ -34,7 +34,7 @@ To strengthen myself as an SAP Solutions Analyst with an emphasis on Backend, wo
   * **Activities:** Development of extensions and integrations between SAP systems (ECC and S4 Hana) and third-party applications using SAP BTP technologies (Integration Suite and Extension Suite). Key technologies included SAP CAP, SAP CPI, SAP Event Mesh, and SAP HANA Cloud. Involved in project deployment, improvements, and support.  
 
 - **Software Engineer (SAP) (1 year and 4 months) – Porto** | Remote.  
-  * **Period:** October/2023 to January/2024  
+  * **Period:** October/2022 to January/2024  
   * **Activities:** Worked extensively with SAP BTP and SuccessFactors (integration). Also worked with SAP Event Mesh, SAP CAP, Cloud Foundry, CPI, Hana Cloud, and SAP Workflow Management. Responsibilities included SAP BTP environment governance, acting as a bridge between client and consulting teams. Participated in requirement gathering and implementation of improvements in HR systems, focusing on integrations and legacy system extensions.  
 
 - **Systems Solutions Analyst II (SAP) (1 year and 3 months) – Dafiti Group** | Remote.  
